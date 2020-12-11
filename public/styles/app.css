@@ -1,0 +1,11 @@
+.card {
+    margin-top: 20px;
+}
+
+.form-title {
+    text-align: center;
+}
+
+#delete-form {
+    display: inline;
+}
